@@ -582,12 +582,12 @@ If you use this work in your research, please cite our paper:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sajibdebnath-black?style=flat-square&logo=github)](https://github.com/sajibdebnath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sajibdebnath)
-[![Email](https://img.shields.io/badge/Email-Research-red?style=flat-square&logo=gmail)](mailto:research@example.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat-square&logo=researchgate)](https://researchgate.net/profile/Sajib-Debnath)
+[![GitHub](https://img.shields.io/badge/GitHub-sajibdebnath-black?style=flat-square&logo=github)](https://github.com/uzzal2200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-uzzal-mia-87a3032a1/)
+[![Email](https://img.shields.io/badge/Email-Research-red?style=flat-square&logo=gmail)](mailto:uzzal.220605@s.pust.ac.bd)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat-square&logo=researchgate)](https://researchgate.net/profile/uzzal2200)
 
-**🔗 Repository**: [hybrid-multiscale-attn-cnn-lstm-load-forecasting](https://github.com/sajibdebnath/hybrid-multiscale-attn-cnn-lstm-load-forecasting)
+**🔗 Repository**: [hybrid-multiscale-attn-cnn-lstm-load-forecasting](https://github.com/uzzal2200/-Electricity-Load-Forecasting-?tab=readme-ov-file)
 
 </div>
 
