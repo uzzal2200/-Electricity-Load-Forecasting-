@@ -582,10 +582,11 @@ If you use this work in your research, please cite our paper:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sajibdebnath-black?style=flat-square&logo=github)](https://github.com/uzzal2200)
+[![GitHub](https://img.shields.io/badge/GitHub-uzzal-black?style=flat-square&logo=github)](https://github.com/uzzal2200)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-uzzal-mia-87a3032a1/)
 [![Email](https://img.shields.io/badge/Email-Research-red?style=flat-square&logo=gmail)](mailto:uzzal.220605@s.pust.ac.bd)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat-square&logo=researchgate)](https://researchgate.net/profile/uzzal2200)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=YsXbn0QAAAAJ&hl=en)
 
 **🔗 Repository**: [hybrid-multiscale-attn-cnn-lstm-load-forecasting](https://github.com/uzzal2200/-Electricity-Load-Forecasting-?tab=readme-ov-file)
 
