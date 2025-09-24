@@ -779,67 +779,6 @@ Please ensure proper attribution when using this code or data in your work.
 
 ---
 
-## 📞 Contact & Citation
-
-<div align="center">
-
-### 🎓 **Academic Citation**
-
-**If you use this work in your research, please cite our paper:**
-
-</div>
-
-```bibtex
-@article{uzzal_mia_hybrid_2025,
-  title={Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using
-         Attention-Based Convolutional Neural Network and LSTM Model},
-  author={Md. Uzzal Mia and Research Team},
-  journal={Energy and AI},
-  volume={15},
-  pages={1--18},
-  year={2025},
-  publisher={Elsevier},
-  doi={10.1016/j.egyai.2025.100XXX},
-  keywords={Deep Learning, Load Forecasting, CNN-LSTM, Attention Mechanism, ERCOT},
-  note={Available at: https://github.com/uzzal2200/-Electricity-Load-Forecasting-}
-}
-```
-
-### 📋 **Research Paper Information**
-
-<div align="center">
-
-| 📖 **Paper Details** | 📊 **Information** |
-|---------------------|-------------------|
-| **Title** | Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting |
-| **Authors** | Md. Uzzal Mia, Research Team |
-| **Institution** | Patuakhali Science and Technology University |
-| **Department** | Computer Science & Engineering |
-| **Research Area** | Deep Learning, Energy Systems, Time Series Forecasting |
-| **Publication Status** | Under Review / Submitted |
-
-</div>
-
-### 🏆 **Research Contributions**
-
-<details>
-<summary><b>🔬 Click to view detailed research contributions</b></summary>
-
-#### 🎯 **Novel Contributions**
-1. **Hybrid Architecture**: First to combine CNN, LSTM, and Multi-Head Attention for load forecasting
-2. **Multi-Scale Feature Extraction**: Innovative approach to capture both local and global patterns
-3. **Comprehensive Dataset**: 7-year ERCOT data integration with multi-station weather data
-4. **Performance Benchmark**: Achieved state-of-the-art results with 97.7% accuracy
-5. **Reproducible Research**: Complete pipeline with deterministic operations
-
-#### 📊 **Technical Innovations**
-- **Attention Mechanism**: Multi-head attention with residual connections
-- **Causal Padding**: Prevents future data leakage in temporal modeling
-- **Advanced Regularization**: Layer normalization and sophisticated dropout strategies
-- **Feature Engineering**: Comprehensive temporal and meteorological feature integration
-
-</details>
-
 ### 🌐 **Connect With Us**
 
 <div align="center">
@@ -858,6 +797,17 @@ Please ensure proper attribution when using this code or data in your work.
 
 <div align="center">
 
+### 🏆 **Achievement Badge**
+
+![Performance](https://img.shields.io/badge/R²_Score-96.77%25-brightgreen?style=for-the-badge)
+![Error](https://img.shields.io/badge/MAPE-2.53%25-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
+
+**📊 Built with ❤️ for the Energy Forecasting Community**
+
+⭐ **Don't forget to star this repo if it helped your research!** ⭐
+
+</div>
 
 
 
