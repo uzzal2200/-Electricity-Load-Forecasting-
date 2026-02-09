@@ -93,7 +93,17 @@
 
 ---
 
-## 🎯Overview
+## 📄 Abstract
+
+<div align="justify">
+
+Accurate electricity load forecasting is crucial for efficient grid management, resource allocation, and maintaining stability, particularly in the face of increasing climate variability and extreme weather events. Traditional forecasting models often struggle to capture the complex, nonlinear, and sudden transitions in electricity loads influenced by meteorological factors. This study proposes a novel hybrid framework, termed as **Attention-based CNN-LSTM model**, for multivariate time series forecasting of daily urban electricity demand. This framework integrates a **Convolutional Neural Network (CNN)**, **Long Short-Term Memory (LSTM)** network, and **Attention Mechanism (AM)** within an encoder-decoder architecture. The CNN layers were used to extract multiscale features and correlations between multivariate variables, whereas the LSTM layers captured the temporal characteristics. The Attention Mechanism assigns varying levels of importance to different time steps within the input sequence, enhancing the model's ability to focus on relevant information. The proposed model was trained and evaluated using historical **ERCOT electricity demand** and corresponding weather data from **2018 to 2024**, consisting of **61,368 hourly data points**. Comparative experiments with standalone LSTM, CNN-LSTM, and attention-based LSTM models demonstrated that the proposed hybrid model achieved superior prediction performance, characterized by lower **MAE, MSE, MAPE, sMAPE**, and a higher **correlation coefficient (R² = 0.9677)** and **PSNR**, particularly during extreme weather conditions. This framework offers a robust solution for enhancing grid resilience and enabling climate-resilient energy planning.
+
+</div>
+
+---
+
+## 🎯 Overview
 
 This research develops advanced deep learning models to predict electricity demand using historical load data and meteorological variables. The study compares four different neural network architectures and demonstrates that the proposed hybrid CNN-LSTM-Attention model significantly outperforms traditional approaches, achieving exceptional accuracy with comprehensive feature engineering and data preprocessing.
 
