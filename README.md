@@ -829,15 +829,18 @@ Please ensure proper attribution when using this code or data in your work.
 </div>
 
 ```bibtex
-@article{debnath2026hybrid,
-  title={Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using Attention-Based Convolutional Neural Network and LSTM Model},
-  author={Debnath, Sajib and Mia, Md Uzzal and Abubakkar, Md and Islam, Md Robiul and Mridul, Md Shafiqul Islam and Biswas, Arindam Kishor},
-  journal={IEEE Access},
-  year={2026},
-  publisher={IEEE},
-  doi={10.1109/ACCESS.2026},
-  keywords={Deep Learning, Electricity Load Forecasting, CNN-LSTM, Attention Mechanism, ERCOT, Time Series Prediction},
-  note={Open Access. Available at: https://github.com/uzzal2200/-Electricity-Load-Forecasting-}
+@article{uzzal_mia_hybrid_2025,
+  title={Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using
+         Attention-Based Convolutional Neural Network and LSTM Model},
+  author={Md. Uzzal Mia and Research Team},
+  journal={Energy and AI},
+  volume={15},
+  pages={1--18},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.egyai.2025.100XXX},
+  keywords={Deep Learning, Load Forecasting, CNN-LSTM, Attention Mechanism, ERCOT},
+  note={Available at: https://github.com/uzzal2200/-Electricity-Load-Forecasting-}
 }
 ```
 
@@ -847,14 +850,12 @@ Please ensure proper attribution when using this code or data in your work.
 
 | 📖 **Paper Details** | 📊 **Information** |
 |---------------------|-------------------|
-| **Title** | Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using Attention-Based CNN and LSTM |
-| **Authors** | Sajib Debnath, Md Uzzal Mia, Md Abubakkar, Md Robiul Islam, Md Shafiqul Islam Mridul, Arindam Kishor Biswas |
-| **Journal** | IEEE Access (Open Access) |
-| **Publisher** | IEEE |
-| **Year** | 2026 |
-| **DOI** | 10.1109/ACCESS.2026 |
-| **Research Area** | Deep Learning, Energy Systems, Time Series Forecasting, Attention Mechanisms |
-| **Publication Status** | ✅ **Published** |
+| **Title** | Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting |
+| **Authors** | Md. Uzzal Mia, Research Team |
+| **Institution** | Patuakhali Science and Technology University |
+| **Department** | Computer Science & Engineering |
+| **Research Area** | Deep Learning, Energy Systems, Time Series Forecasting |
+| **Publication Status** | Under Review / Submitted |
 
 </div>
 
@@ -896,73 +897,22 @@ Please ensure proper attribution when using this code or data in your work.
 
 <div align="center">
 
-### 🎯 **Research Impact & Statistics**
+### 🏆 **Achievement Badge**
 
-**⚡ Advancing Energy Forecasting Through Deep Learning Innovation**
-
-*This project demonstrates state-of-the-art deep learning techniques for electricity load forecasting and serves as a comprehensive foundation for similar time series prediction tasks in the energy sector. Our hybrid CNN-LSTM-Attention model achieves superior performance through innovative architecture design and thorough data preprocessing.*
-
-### 📊 **Project Statistics**
-
-![GitHub repo size](https://img.shields.io/github/repo-size/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=blue)
-![GitHub code size](https://img.shields.io/github/languages/code-size/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=green)
-![GitHub language count](https://img.shields.io/github/languages/count/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=orange)
-![GitHub top language](https://img.shields.io/github/languages/top/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=red)
-
-### 🏆 **Achievement Badges**
-
-![Performance](https://img.shields.io/badge/R²_Score-96.77%25-brightgreen?style=for-the-badge&logo=target)
-![Error](https://img.shields.io/badge/MAPE-2.53%25-blue?style=for-the-badge&logo=accuracy)
-![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=checkmark)
-![Research](https://img.shields.io/badge/Research-State--of--the--Art-purple?style=for-the-badge&logo=academic)
-
-### 🌍 **Global Impact**
-
-```mermaid
-pie title Research Impact Areas
-    "Energy Sector" : 35
-    "AI/ML Research" : 25
-    "Climate Science" : 20
-    "Smart Grids" : 15
-    "Academic Research" : 5
-```
+![Performance](https://img.shields.io/badge/R²_Score-96.77%25-brightgreen?style=for-the-badge)
+![Error](https://img.shields.io/badge/MAPE-2.53%25-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
 
 **📊 Built with ❤️ for the Energy Forecasting Community**
-
-### 🎉 **Support This Research**
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://github.com/uzzal2200/-Electricity-Load-Forecasting-">
-<img src="https://img.shields.io/badge/⭐_Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/uzzal2200/-Electricity-Load-Forecasting-/fork">
-<img src="https://img.shields.io/badge/🍴_Fork_Project-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/uzzal2200/-Electricity-Load-Forecasting-/issues">
-<img src="https://img.shields.io/badge/🐛_Report_Issues-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-### 📈 **Repository Activity**
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=brightgreen&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=blue&logo=github)
-![GitHub contributors](https://img.shields.io/github/contributors/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square&color=orange&logo=github)
-
-**💡 "Predicting the future of energy, one algorithm at a time"**
 
 ⭐ **Don't forget to star this repo if it helped your research!** ⭐
 
 </div>
+
+
+
+
+
+
 
 
