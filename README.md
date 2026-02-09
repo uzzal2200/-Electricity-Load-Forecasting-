@@ -22,7 +22,14 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/uzzal2200/-Electricity-Load-Forecasting-?style=flat-square)
 
+<!-- Publication Info -->
+![Publication](https://img.shields.io/badge/IEEE_Access-Published-success?style=flat-square&logo=ieee)
+![Year](https://img.shields.io/badge/Year-2026-blue?style=flat-square)
+![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026-blue?style=flat-square&logo=doi)
+
 **🏆 Best Performance: R² = 0.9677 | MAPE = 2.53% | State-of-the-Art Results 🏆**
+
+**📄 PUBLISHED IN IEEE ACCESS 2026 | Open Access Journal**
 
 *A comprehensive deep learning project for electricity load forecasting using ERCOT (Electric Reliability Council of Texas) data*
 
@@ -58,12 +65,31 @@
 
 ---
 
+## 📢 **Publication Announcement**
+
+<div align="center">
+
+### 🎉 **Published in IEEE Access 2026** 🎉
+
+**Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using Attention-Based Convolutional Neural Network and LSTM Model**
+
+[![IEEE Access](https://img.shields.io/badge/IEEE_Access-Published-success?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/)
+[![Open Access](https://img.shields.io/badge/Open_Access-Free_Download-green?style=for-the-badge)](https://ieeexplore.ieee.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1109/ACCESS.2026)
+
+**Authors**: Sajib Debnath, Md Uzzal Mia, Md Abubakkar, Md Robiul Islam, Md Shafiqul Islam Mridul, Arindam Kishor Biswas
+
+</div>
+
+---
+
 ## 🌟 **Highlights**
 
 > 💡 **Novel Architecture**: Hybrid CNN-LSTM-Attention model with **97% accuracy**
 > 📈 **7-Year Dataset**: Comprehensive ERCOT data (2018-2024) with weather integration
 > 🔬 **Advanced Features**: Multi-head attention, residual connections, and sophisticated preprocessing
 > 🎯 **Superior Performance**: Outperforms traditional models by **15-30%** across all metrics
+> 📄 **Published**: IEEE Access - Open Access Journal (2026)
 
 ---
 
@@ -191,12 +217,25 @@ graph TB
     end
 ```
 
-| 🤖 Model | 📊 R² Score | 📉 MAE (MW) | 📐 RMSE (MW) | 🎯 MAPE | 📈 Improvement |
-|-----------|-------------|-------------|--------------|---------|----------------|
-| 🔹 LSTM Baseline | 0.9042 | 2,393.47 | 3,298.21 | 3.84% | Baseline |
-| 🔸 CNN-LSTM | 0.9380 | 1,984.19 | 2,654.50 | 3.51% | +3.38% R² ⬆️ |
-| 🔶 Attention-LSTM | 0.9270 | 2,193.70 | 2,878.90 | 3.92% | +2.28% R² ⬆️ |
-| **🌟 Hybrid CNN-LSTM-Attention** | **🥇 0.9677** | **🥇 1,430.55** | **🥇 1,915.17** | **🥇 2.53%** | **+6.35% R² 🚀** |
+
+## 📈 Results
+
+| Model | MAE (MW) | RMSE (MW) | MAPE (%) | sMAPE (%) | PSNR (dB) | R² |
+|-------|----------:|----------:|---------:|----------:|----------:|----:|
+| LSTM | 2393.4662 | 3298.2063 | 3.8416 | 3.9473 | 28.2431 | 0.9042 |
+| CNN-LSTM | 1984.1900 | 2654.4977 | 3.5111 | 3.4465 | 30.1290 | 0.9380 |
+| Attention-LSTM | 2193.6967 | 2878.8981 | 3.9219 | 3.9617 | 29.4241 | 0.9270 |
+| **Attention-based CNN-LSTM (Proposed / Hybrid)** | **1430.5544** | **1915.1668** | **2.5278** | **2.5063** | **32.9645** | **0.9677** |
+
+
+### Model Size & Performance
+
+| Model | Params (M) | Train Time (s/epoch) | Inference Time (ms) | Peak Mem (MB, GPU) |
+|-------:|----------:|--------------------:|--------------------:|-------------------:|
+| LSTM | 0.0003 | 2.132 | 71.19 | 84.7 |
+| CNN-LSTM | 0.0602 | 5.034 | 66.26 | 148.9 |
+| Attention-LSTM | 0.0088 | 6.995 | 80.74 | 172.2 |
+| Proposed Hybrid (Attention-based CNN-LSTM) | 0.3614 | 6.327 | 66.60 | 172.8 |
 
 ### 📊 **Model Accuracy Visualization**
 
@@ -790,18 +829,15 @@ Please ensure proper attribution when using this code or data in your work.
 </div>
 
 ```bibtex
-@article{uzzal_mia_hybrid_2025,
-  title={Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using
-         Attention-Based Convolutional Neural Network and LSTM Model},
-  author={Md. Uzzal Mia and Research Team},
-  journal={Energy and AI},
-  volume={15},
-  pages={1--18},
-  year={2025},
-  publisher={Elsevier},
-  doi={10.1016/j.egyai.2025.100XXX},
-  keywords={Deep Learning, Load Forecasting, CNN-LSTM, Attention Mechanism, ERCOT},
-  note={Available at: https://github.com/uzzal2200/-Electricity-Load-Forecasting-}
+@article{debnath2026hybrid,
+  title={Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using Attention-Based Convolutional Neural Network and LSTM Model},
+  author={Debnath, Sajib and Mia, Md Uzzal and Abubakkar, Md and Islam, Md Robiul and Mridul, Md Shafiqul Islam and Biswas, Arindam Kishor},
+  journal={IEEE Access},
+  year={2026},
+  publisher={IEEE},
+  doi={10.1109/ACCESS.2026},
+  keywords={Deep Learning, Electricity Load Forecasting, CNN-LSTM, Attention Mechanism, ERCOT, Time Series Prediction},
+  note={Open Access. Available at: https://github.com/uzzal2200/-Electricity-Load-Forecasting-}
 }
 ```
 
@@ -811,12 +847,14 @@ Please ensure proper attribution when using this code or data in your work.
 
 | 📖 **Paper Details** | 📊 **Information** |
 |---------------------|-------------------|
-| **Title** | Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting |
-| **Authors** | Md. Uzzal Mia, Research Team |
-| **Institution** | Patuakhali Science and Technology University |
-| **Department** | Computer Science & Engineering |
-| **Research Area** | Deep Learning, Energy Systems, Time Series Forecasting |
-| **Publication Status** | Under Review / Submitted |
+| **Title** | Hybrid Multi-Scale Deep Learning Enhanced Electricity Load Forecasting Using Attention-Based CNN and LSTM |
+| **Authors** | Sajib Debnath, Md Uzzal Mia, Md Abubakkar, Md Robiul Islam, Md Shafiqul Islam Mridul, Arindam Kishor Biswas |
+| **Journal** | IEEE Access (Open Access) |
+| **Publisher** | IEEE |
+| **Year** | 2026 |
+| **DOI** | 10.1109/ACCESS.2026 |
+| **Research Area** | Deep Learning, Energy Systems, Time Series Forecasting, Attention Mechanisms |
+| **Publication Status** | ✅ **Published** |
 
 </div>
 
